@@ -4,11 +4,11 @@
 
 本站收录了国内可用且**免费的 [ChatGPT镜像网站](https://chat.yixiaai.com)**，有需要的可自取。
 
-在国内**无需翻墙**，就能直接在线使用的 [**ChatGPT中文版镜像网站**](https://chat.lanjing.ai)~
+在国内**无需翻墙**，就能直接在线使用的 [**ChatGPT中文版镜像网站**](https://chat.lanjing.pro)~
 
 这些网站均为免费的网页版，国内ChatGPT、免费ChatGPT、ChatGPT中文版、ChatGPT镜像网站~ 
 
-**ChatGPT 国内免费入口：[https://chat.lanjing.ai](https://chat.lanjing.ai)**   
+**ChatGPT 国内免费入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
 **ChatGPT 镜像网站入口：[https://chat.yixiaai.com](https://chat.yixiaai.com/)**   
 
 ---
@@ -29,7 +29,7 @@
 
 以下是精选的国内优质 **ChatGPT 中文版镜像网站**，提供高效的中文访问体验：
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营2年多，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [https://chat.lanjing.ai][https://chat.lanjing.ai] - **免费 ChatGPT**，运营2年多，支持GPT-4、4o、o1、o3 及 Claude 3.7、Grok 3、Gemini 2.5等大模型~
+- [https://chat.lanjing.pro][https://chat.lanjing.pro] - **免费 ChatGPT**，运营2年多，支持GPT-4、4o、o1、o3 及 Claude 3.7、Grok 3、Gemini 2.5等大模型~
 - [https://chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营2年多，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
